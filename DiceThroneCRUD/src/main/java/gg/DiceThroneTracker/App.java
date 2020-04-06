@@ -1,4 +1,4 @@
-package gg.diceThroneTracker;
+package gg.DiceThroneTracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -19,7 +19,7 @@ public class App {
 	@Bean
 	public Docket swaggerDocket() {
 		return new Docket(DocumentationType.SWAGGER_2).apiInfo(apiInfo()).select()
-				.apis(RequestHandlerSelectors.basePackage("gg.diceThroneTracker")).build();
+				.apis(RequestHandlerSelectors.basePackage("gg.DiceThroneTracker")).build();
 	}
 
 	private ApiInfo apiInfo() {

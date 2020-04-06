@@ -19,7 +19,7 @@ var GameLogger = () => {
                 </div>
                 <img alt='playing as' src={playing} className='playing'></img>
                 <div className="form-group text-center">
-                    <select class="form-control" id="CharacterName">
+                    <select className="form-control" id="CharacterName">
                         <option value="one">Seraph</option>
                         <option value="two">Vampire</option>
                         <option value="three">Engineer</option>
@@ -50,7 +50,7 @@ var GameLogger = () => {
                 </div>
                 <img alt='playing as' src={playing} className='playing'></img>
                 <div className="form-group text-center">
-                    <select class="form-control" id="CharacterName">
+                    <select className="form-control" id="CharacterName">
                         <option value="one">Seraph</option>
                         <option value="two">Vampire</option>
                         <option value="three">Engineer</option>

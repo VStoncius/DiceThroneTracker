@@ -1,8 +1,8 @@
-package gg.diceThroneTracker.persitence.repositories;
+package gg.DiceThroneTracker.rest.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import gg.diceThroneTracker.persitence.domain.Player;
+import gg.DiceThroneTracker.rest.domain.Player;
 
 public interface PlayerRepository extends JpaRepository<Player, Long>{
 

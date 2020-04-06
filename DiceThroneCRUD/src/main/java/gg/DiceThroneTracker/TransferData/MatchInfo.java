@@ -1,4 +1,4 @@
-package gg.diceThroneTracker.TransferData;
+package gg.DiceThroneTracker.TransferData;
 
 
 public class MatchInfo {

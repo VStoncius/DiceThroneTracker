@@ -1,12 +1,12 @@
-package gg.diceThroneTracker.api.rest;
+package gg.DiceThroneTracker.rest.services;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import gg.diceThroneTracker.persitence.domain.Match;
-import gg.diceThroneTracker.persitence.repositories.MatchRepository;
+import gg.DiceThroneTracker.rest.domain.Match;
+import gg.DiceThroneTracker.rest.repositories.MatchRepository;
 
 
 //Logic goes here!!!!

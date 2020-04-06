@@ -1,4 +1,4 @@
-package gg.diceThroneTracker.persitence.domain;
+package gg.DiceThroneTracker.rest.domain;
 
 import java.io.Serializable;
 
@@ -13,7 +13,6 @@ import javax.persistence.ManyToOne;
 public class Match implements Serializable{
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
-	@Column
 	private Long id;
 
 

@@ -12,10 +12,10 @@ function App() {
         <Navigation/> 
         <GameLog/>
       </header>
-      <body>
+      <div>
         <br></br>
         <Table/>
-      </body>
+      </div>
     </div>
   );
 }

@@ -1,8 +1,6 @@
 Manifest-Version: 1.0
 Implementation-Title: DiceThroneTracker
-Implementation-Version: 1.0
-Built-By: vilius
-Implementation-Vendor-Id: DiceThroneTracker
-Build-Jdk: 1.8.0_221
+Implementation-Version: 0.0.1
+Build-Jdk-Spec: 1.8
 Created-By: Maven Integration for Eclipse
 

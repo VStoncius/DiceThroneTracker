@@ -1,4 +1,4 @@
-package gg.diceThroneTracker;
+package gg.DiceThroneTracker;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
