@@ -1,0 +1,127 @@
+[[1;34mINFO[m] Scanning for projects...
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.pom
+Progress (1): 1.4/12 kBProgress (1): 2.7/12 kBProgress (1): 4.1/12 kBProgress (1): 5.5/12 kBProgress (1): 6.9/12 kBProgress (1): 8.2/12 kBProgress (1): 9.6/12 kBProgress (1): 11/12 kB Progress (1): 12 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.pom (12 kB at 17 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/tomcat-maven-plugin/2.2/tomcat-maven-plugin-2.2.pom
+Progress (1): 1.4/33 kBProgress (1): 2.7/33 kBProgress (1): 4.1/33 kBProgress (1): 5.5/33 kBProgress (1): 6.9/33 kBProgress (1): 8.2/33 kBProgress (1): 9.6/33 kBProgress (1): 11/33 kB Progress (1): 12/33 kBProgress (1): 14/33 kBProgress (1): 15/33 kBProgress (1): 16/33 kBProgress (1): 18/33 kBProgress (1): 19/33 kBProgress (1): 21/33 kBProgress (1): 22/33 kBProgress (1): 23/33 kBProgress (1): 25/33 kBProgress (1): 26/33 kBProgress (1): 27/33 kBProgress (1): 29/33 kBProgress (1): 30/33 kBProgress (1): 32/33 kBProgress (1): 33 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/tomcat-maven-plugin/2.2/tomcat-maven-plugin-2.2.pom (33 kB at 218 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/12/apache-12.pom
+Progress (1): 1.4/16 kBProgress (1): 2.7/16 kBProgress (1): 4.1/16 kBProgress (1): 5.5/16 kBProgress (1): 6.9/16 kBProgress (1): 8.2/16 kBProgress (1): 9.6/16 kBProgress (1): 11/16 kB Progress (1): 12/16 kBProgress (1): 14/16 kBProgress (1): 15/16 kBProgress (1): 16 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/12/apache-12.pom (16 kB at 120 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar
+Progress (1): 1.4/114 kBProgress (1): 2.7/114 kBProgress (1): 4.1/114 kBProgress (1): 5.5/114 kBProgress (1): 6.9/114 kBProgress (1): 8.2/114 kBProgress (1): 9.6/114 kBProgress (1): 11/114 kB Progress (1): 12/114 kBProgress (1): 14/114 kBProgress (1): 15/114 kBProgress (1): 16/114 kBProgress (1): 18/114 kBProgress (1): 19/114 kBProgress (1): 21/114 kBProgress (1): 22/114 kBProgress (1): 23/114 kBProgress (1): 25/114 kBProgress (1): 26/114 kBProgress (1): 27/114 kBProgress (1): 29/114 kBProgress (1): 30/114 kBProgress (1): 32/114 kBProgress (1): 33/114 kBProgress (1): 34/114 kBProgress (1): 36/114 kBProgress (1): 37/114 kBProgress (1): 38/114 kBProgress (1): 40/114 kBProgress (1): 41/114 kBProgress (1): 43/114 kBProgress (1): 44/114 kBProgress (1): 45/114 kBProgress (1): 47/114 kBProgress (1): 48/114 kBProgress (1): 49/114 kBProgress (1): 51/114 kBProgress (1): 52/114 kBProgress (1): 53/114 kBProgress (1): 55/114 kBProgress (1): 56/114 kBProgress (1): 58/114 kBProgress (1): 59/114 kBProgress (1): 60/114 kBProgress (1): 62/114 kBProgress (1): 63/114 kBProgress (1): 64/114 kBProgress (1): 66/114 kBProgress (1): 67/114 kBProgress (1): 69/114 kBProgress (1): 70/114 kBProgress (1): 71/114 kBProgress (1): 73/114 kBProgress (1): 74/114 kBProgress (1): 75/114 kBProgress (1): 77/114 kBProgress (1): 78/114 kBProgress (1): 80/114 kBProgress (1): 81/114 kBProgress (1): 82/114 kBProgress (1): 84/114 kBProgress (1): 85/114 kBProgress (1): 86/114 kBProgress (1): 88/114 kBProgress (1): 89/114 kBProgress (1): 90/114 kBProgress (1): 92/114 kBProgress (1): 93/114 kBProgress (1): 95/114 kBProgress (1): 96/114 kBProgress (1): 97/114 kBProgress (1): 99/114 kBProgress (1): 100/114 kBProgress (1): 101/114 kBProgress (1): 103/114 kBProgress (1): 104/114 kBProgress (1): 106/114 kBProgress (1): 107/114 kBProgress (1): 108/114 kBProgress (1): 110/114 kBProgress (1): 111/114 kBProgress (1): 112/114 kBProgress (1): 114/114 kBProgress (1): 114 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/tomcat7-maven-plugin/2.2/tomcat7-maven-plugin-2.2.jar (114 kB at 337 kB/s)
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------------< [0;36mmyStore.com:StoreApi[0;1m >------------------------[m
+[[1;34mINFO[m] [1mBuilding MyStoreAPI 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m>>> [0;32mtomcat7-maven-plugin:2.2:run-war[m [1m(default-cli)[0;1m > [0;1mpackage[m @ [36mStoreApi[0;1m >>>[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.1.0:resources[m [1m(default-resources)[m @ [36mStoreApi[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] Copying 1 resource
+[[1;34mINFO[m] Copying 1 resource
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.8.1:compile[m [1m(default-compile)[m @ [36mStoreApi[0;1m ---[m
+[[1;34mINFO[m] Changes detected - recompiling the module!
+[[1;34mINFO[m] Compiling 2 source files to /home/vilius/StoreApi/target/classes
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.1.0:testResources[m [1m(default-testResources)[m @ [36mStoreApi[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] Copying 0 resource
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.8.1:testCompile[m [1m(default-testCompile)[m @ [36mStoreApi[0;1m ---[m
+[[1;34mINFO[m] Changes detected - recompiling the module!
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:2.22.2:test[m [1m(default-test)[m @ [36mStoreApi[0;1m ---[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-jar-plugin:3.1.2:jar[m [1m(default-jar)[m @ [36mStoreApi[0;1m ---[m
+[[1;34mINFO[m] Building jar: /home/vilius/StoreApi/target/StoreApi-0.0.1-SNAPSHOT.jar
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m<<< [0;32mtomcat7-maven-plugin:2.2:run-war[m [1m(default-cli)[0;1m < [0;1mpackage[m @ [36mStoreApi[0;1m <<<[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mtomcat7-maven-plugin:2.2:run-war[m [1m(default-cli)[m @ [36mStoreApi[0;1m ---[m
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/7.0.47/tomcat-embed-core-7.0.47.pom
+Progress (1): 1.4/1.9 kBProgress (1): 1.9 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/7.0.47/tomcat-embed-core-7.0.47.pom (1.9 kB at 19 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-util/7.0.47/tomcat-util-7.0.47.pom
+Progress (1): 1.4/1.8 kBProgress (1): 1.8 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-util/7.0.47/tomcat-util-7.0.47.pom (1.8 kB at 18 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/7.0.47/tomcat-juli-7.0.47.pom
+Progress (1): 1.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-juli/7.0.47/tomcat-juli-7.0.47.pom (1.3 kB at 14 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-api/7.0.47/tomcat-api-7.0.47.pom
+Progress (1): 1.4/1.6 kBProgress (1): 1.6 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-api/7.0.47/tomcat-api-7.0.47.pom (1.6 kB at 14 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/7.0.47/tomcat-servlet-api-7.0.47.pom
+Progress (1): 1.4/1.9 kBProgress (1): 1.9 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/7.0.47/tomcat-servlet-api-7.0.47.pom (1.9 kB at 18 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/7.0.47/tomcat-coyote-7.0.47.pom
+Progress (1): 1.4/1.9 kBProgress (1): 1.9 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/7.0.47/tomcat-coyote-7.0.47.pom (1.9 kB at 13 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/7.0.47/tomcat-jdbc-7.0.47.pom
+Progress (1): 1.4/1.5 kBProgress (1): 1.5 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/7.0.47/tomcat-jdbc-7.0.47.pom (1.5 kB at 12 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-dbcp/7.0.47/tomcat-dbcp-7.0.47.pom
+Progress (1): 1.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-dbcp/7.0.47/tomcat-dbcp-7.0.47.pom (1.3 kB at 13 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jsp-api/7.0.47/tomcat-jsp-api-7.0.47.pom
+Progress (1): 1.4/2.1 kBProgress (1): 2.1 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jsp-api/7.0.47/tomcat-jsp-api-7.0.47.pom (2.1 kB at 20 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-el-api/7.0.47/tomcat-el-api-7.0.47.pom
+Progress (1): 1.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-el-api/7.0.47/tomcat-el-api-7.0.47.pom (1.3 kB at 13 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/7.0.47/tomcat-jasper-7.0.47.pom
+Progress (1): 2.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper/7.0.47/tomcat-jasper-7.0.47.pom (2.8 kB at 28 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.2.2/ecj-4.2.2.pom
+Progress (1): 1.5 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.2.2/ecj-4.2.2.pom (1.5 kB at 15 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper-el/7.0.47/tomcat-jasper-el-7.0.47.pom
+Progress (1): 1.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jasper-el/7.0.47/tomcat-jasper-el-7.0.47.pom (1.6 kB at 16 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/7.0.47/tomcat-catalina-7.0.47.pom
+Progress (1): 2.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/7.0.47/tomcat-catalina-7.0.47.pom (2.4 kB at 25 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/7.0.47/tomcat-annotations-api-7.0.47.pom
+Progress (1): 1.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/7.0.47/tomcat-annotations-api-7.0.47.pom (1.3 kB at 13 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-tribes/7.0.47/tomcat-tribes-7.0.47.pom
+Progress (1): 1.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-tribes/7.0.47/tomcat-tribes-7.0.47.pom (1.6 kB at 14 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina-ha/7.0.47/tomcat-catalina-ha-7.0.47.pom
+Progress (1): 2.5 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina-ha/7.0.47/tomcat-catalina-ha-7.0.47.pom (2.5 kB at 24 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.47/tomcat-embed-logging-juli-7.0.47.pom
+Progress (1): 1.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.47/tomcat-embed-logging-juli-7.0.47.pom (1.4 kB at 13 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-log4j/7.0.47/tomcat-embed-logging-log4j-7.0.47.pom
+Progress (1): 1.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-logging-log4j/7.0.47/tomcat-embed-logging-log4j-7.0.47.pom (1.4 kB at 13 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/common-tomcat-maven-plugin/2.2/common-tomcat-maven-plugin-2.2.pom
+Progress (1): 4.1/4.3 kBProgress (1): 4.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/common-tomcat-maven-plugin/2.2/common-tomcat-maven-plugin-2.2.pom (4.3 kB at 35 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+Progress (1): 2.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom (2.3 kB at 22 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+Progress (1): 481 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom (481 B at 4.7 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+Progress (1): 4.1/5.9 kBProgress (1): 5.9 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom (5.9 kB at 57 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom
+Progress (1): 4.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.2/maven-archiver-2.4.2.pom (4.0 kB at 44 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/16/maven-shared-components-16.pom
+Progress (1): 4.1/9.2 kBProgress (1): 8.2/9.2 kBProgress (1): 9.2 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/16/maven-shared-components-16.pom (9.2 kB at 87 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/19/maven-parent-19.pom
+Progress (1): 4.1/25 kBProgress (1): 8.2/25 kBProgress (1): 12/25 kB Progress (1): 16/25 kBProgress (1): 20/25 kBProgress (1): 25/25 kBProgress (1): 25 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/19/maven-parent-19.pom (25 kB at 232 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1.1/plexus-archiver-2.1.1.pom
+Progress (1): 2.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1.1/plexus-archiver-2.1.1.pom (2.8 kB at 25 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.3/plexus-io-2.0.3.pom
+Progress (1): 1.7 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.3/plexus-io-2.0.3.pom (1.7 kB at 18 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3.1/httpclient-4.3.1.pom
+Progress (1): 4.1/5.2 kBProgress (1): 5.2 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3.1/httpclient-4.3.1.pom (5.2 kB at 54 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.1/httpcomponents-client-4.3.1.pom
+Progress (1): 4.1/15 kBProgress (1): 8.2/15 kBProgress (1): 12/15 kB Progress (1): 15 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.1/httpcomponents-client-4.3.1.pom (15 kB at 134 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3/httpcore-4.3.pom
+Progress (1): 4.1/4.1 kBProgress (1): 4.1 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3/httpcore-4.3.pom (4.1 kB at 48 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3/httpcomponents-core-4.3.pom
+Progress (1): 4.1/12 kBProgress (1): 8.2/12 kBProgress (1): 12 kB                       Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3/httpcomponents-core-4.3.pom (12 kB at 110 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom
+Progress (1): 4.1/18 kBProgress (1): 8.2/18 kBProgress (1): 12/18 kB Progress (1): 16/18 kBProgress (1): 18 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom (18 kB at 193 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom
+Progress (1): 4.1/17 kBProgress (1): 8.2/17 kBProgress (1): 12/17 kB Progress (1): 16/17 kBProgress (1): 17 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom (17 kB at 162 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/17/commons-parent-17.pom
+Progress (1): 4.1/31 kBProgress (1): 8.2/31 kBProgress (1): 12/31 kB Progress (1): 16/31 kBProgress (1): 20/31 kBProgress (1): 25/31 kBProgress (1): 29/31 kBProgress (1): 31 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/17/commons-parent-17.pom (31 kB at 284 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/tomcat7-war-runner/2.2/tomcat7-war-runner-2.2.pom
+Progress (1): 3.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/maven/tomcat7-war-runner/2.2/tomcat7-war-runner-2.2.pom (3.6 kB at 38 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1.pom
+Progress (1): 4.1/11 kBProgress (1): 8.2/11 kBProgress (1): 11 kB                       Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1.pom (11 kB at 111 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/tukaani/xz/1.0/xz-1.0.pom
+Progress (1): 1.9 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/tukaani/xz/1.0/xz-1.0.pom (1.9 kB at 22 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom
+Progress (1): 4.1/5.8 kBProgress (1): 5.8 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.0/maven-filtering-1.0.pom (5.8 kB at 66 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.pom
+Progress (1): 1.9 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.pom (1.9 kB at 20 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/7.0.47/tomcat-embed-core-7.0.47.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-util/7.0.47/tomcat-util-7.0.47.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/7.0.47/tomcat-coyote-7.0.47.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-api/7.0.47/tomcat-api-7.0.47.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jdbc/7.0.47/tomcat-jdbc-7.0.47.jar
+Progress (1): 0/2.8 MBProgress (1): 0/2.8 MBProgress (1): 0/2.8 MBProgress (1): 0/2.8 MBProgress (1): 0/2.8 MBProgress (1): 0/2.8 MBProgress (1): 0/2.8 MBProgress (1): 0/2.8 MBProgress (1): 0/2.8 MBProgress (1): 0/2.8 MBProgress (1): 0/2.8 MBProgress (1): 0/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MBProgress (1): 0.1/2.8 MB
